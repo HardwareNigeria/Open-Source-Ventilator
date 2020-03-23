@@ -3,4 +3,6 @@ An open Source Ventilator to support the fight against covid'19
 
 Project Contributors:
 
+Ugo okafor (@ijele5000)
+
 
